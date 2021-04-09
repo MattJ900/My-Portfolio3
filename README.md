@@ -1,8 +1,8 @@
 <h1 align ="center">🦁 Matthew A John Portfolio:😎</h1>
 
-<h2 align ="center">Objective</h2>
+<h1 align ="center">Career Objective</h1>
 
-## To contribute my skills and knowledge and to personally grow through committed participation in a professional working environment with challenges, responsibilities, and opportunities.
+<h2 align ="center">To contribute my skills and knowledge and to personally grow through committed participation in a professional working environment with challenges, responsibilities, and opportunities.</h2>
 
 ---
 

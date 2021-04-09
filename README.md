@@ -1,7 +1,6 @@
 <h1 align ="center">🦁 Matthew A John Portfolio:😎</h1>
 
-
-# Objective
+<h2 align ="center">Objective</h2>
 
 ## To contribute my skills and knowledge and to personally grow through committed participation in a professional working environment with challenges, responsibilities, and opportunities.
 
@@ -44,12 +43,12 @@
 I can be reached contact@matthewj.dev for employment or contracting.
 
 ## Deployed-Links
-[Github URL](https://github.com/MattJ900/)
+[Github Repo URL](https://github.com/MattJ900/My-Portfolio3)
 <br>
 [Portfolio URL](https://www.matthewj.dev/)
 <br>
 [Linkedin](https://www.linkedin.com/in/matthew-john-644574204/)
 
 ### <a name="Github"></a>Github
-[Github URL](https://github.com/MattJ900)
+[Github Repo](https://github.com/MattJ900/)
 

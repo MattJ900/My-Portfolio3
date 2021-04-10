@@ -488,6 +488,43 @@ header {
 
 }
 
+
+
+
+/* . {
+
+} */
+
+
+a:link {
+  color: var(--clr-accent);
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:visited {
+  color: white;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:hover {
+  color: red;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+a:active {
+  color: blue;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+
+
+
+
+
 /* footer */
 
 .footer {
